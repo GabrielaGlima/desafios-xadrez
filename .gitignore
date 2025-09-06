@@ -1,0 +1,37 @@
+# Arquivos de compilação
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.a
+*.lib
+
+# Arquivos de debug
+*.gch
+*.pch
+*.ilk
+*.pdb
+*.idb
+
+# Logs
+*.log
+
+# Diretórios comuns de build
+/build/
+/Debug/
+/Release/
+/bin/
+/obj/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos do editor
+*.swp
+*.swo
+*.bak
+*.tmp
